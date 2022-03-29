@@ -1,0 +1,1 @@
+This is a C project on a simple calculator, that uses the addition, Multiplication, Divison, Subtraction and power function.This will contain 3 argument in our scanf(that is To recieve inputs) ValueOne, operator and the third will be ValueTwo
